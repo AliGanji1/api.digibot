@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "description": "• تغیر اساسی در رابط کاربری\n•اضافه شدن بخش ساخت عکس با هوش مصنوعی",
   "appLink": "myket://download/ir.ai.digibot",
-  "allowDismissal": true
+  "allowDismissal": false
 }
